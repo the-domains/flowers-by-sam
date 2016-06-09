@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Floral Design for Weddings, Events and Special Occasion Arrangements]]></title>
+        <description><![CDATA[Floral Design for Weddings, Events and Special Occasion Arrangements]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 19:36:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Flowers By Sam offers clients with exquisite flowers for weddings, events, parties. Simply provide us with the particulars - from party size to color scheme/theme, etc. and we will meet you for a complimentary consultation to provide options based on your location, needs and budget.</p>]]></description>
+            <link>undefinedflowers-by-sam-offers-clients-with-exquisite-flowers-for-wed/index.html</link>
+            <guid isPermaLink="false">6abd3e2c-5cd0-4763-8c01-bbd6f22547c6</guid>
+            <pubDate>Thu, 09 Jun 2016 19:36:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
