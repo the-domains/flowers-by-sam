@@ -9,15 +9,15 @@ description: >-
   member of the Los Angeles and San Dimas Chambers of Commerce and a preferred
   vendor at locations such as Duke's Malibu, the Pomona Valley Mining Company
   and House of Blues - Downtown Disney.
-datePublished: '2016-06-09T19:43:55.092Z'
-dateModified: '2016-06-09T19:41:52.774Z'
+datePublished: '2016-06-27T17:26:31.990Z'
+dateModified: '2016-06-09T20:01:41.373Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-09-check-out-what-past-clients-have-experienced-working-with-fl.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-09-check-out-what-past-clients-have-experienced-working-with-fl.md
 url: check-out-what-past-clients-have-experienced-working-with-fl/index.html
 _type: Article
 
