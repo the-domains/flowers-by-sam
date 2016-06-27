@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'CONTACT INFORMATION:'
-datePublished: '2016-06-27T17:21:16.982Z'
-dateModified: '2016-06-27T17:20:50.873Z'
+datePublished: '2016-06-27T17:21:54.814Z'
+dateModified: '2016-06-27T17:21:31.906Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-27-contact-information.md
+starred: true
 url: contact-information/index.html
 _type: Article
 
